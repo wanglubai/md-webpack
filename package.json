@@ -1,0 +1,21 @@
+{
+  "name": "md-webpack",
+  "version": "1.0.0",
+  "description": "md",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "action": "node action.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanglubai/md-webpack.git"
+  },
+  "author": "wanglubai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanglubai/md-webpack/issues"
+  },
+  "homepage": "https://github.com/wanglubai/md-webpack#readme"
+}
